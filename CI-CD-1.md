@@ -123,7 +123,7 @@ git branch new-feature
 ​
 ### Switch to the new branch:
 ```bash
-git checkout new-feature
+git checkout -b new-feature
 ```
 ​
 Or in Git versions 2.23+:
